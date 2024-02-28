@@ -1,20 +1,20 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "DAKUBOY",
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "dakusmpofficial.aternos.me",
+    "port": 20660,
+    "version": "1.19.2"
   },
 
   "position": {
     "enabled": false,
     "x": 0,
-    "y": 0,
+    "y": 9999999999999999999999999999999999999999999999999999999999999,
     "z": 0
   },
 
